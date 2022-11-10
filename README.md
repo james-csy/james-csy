@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @james-csy, a Computer Science student at UC Berkeley, California!
-- 👀 I’m interested in building tech within the social impact space
-- 🌱 I’m currently learning React, Python and Java
-- 💞️ I’m looking to collaborate on social impact focused tech projects
-- 📫 How to reach me: email me at jameschong@berkeley.edu or send me a DM on ig @james.csy
+# Welcome to my GitHub Repo!
 
-My Projects
+- 👋 Hi, I’m **James Chong**, a Computer Science student at UC Berkeley, California!
+- 👀 I’m interested in building tech within the **social impact space**
+- 🌱 I’m currently learning **React**, **Python** and **Java**
+- 💞️ I’m looking to collaborate on **social impact focused tech projects**
+- 📫 How to reach me: email me at **jameschong@berkeley.edu** or send me a **DM on Instagram @james.csy**
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=james-csy&theme=react-dark&hide_border=true&area=true)
+
+## My Projects
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rlin0210&repo=connex)](https://github.com/rlin0210/connex)
+  
+
 
 
 <!---
