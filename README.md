@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on **social impact focused tech projects**
 - 📫 How to reach me: email me at **jameschong@berkeley.edu** or send me a **DM on Instagram @james.csy**
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=james-csy&theme=react-dark&hide_border=true&area=true)
 
 ## My Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=james-csy&repo=sanctionlistchecker)]([https://github.com/rlin0210/connex](https://github.com/james-csy/sanctionlistchecker))
