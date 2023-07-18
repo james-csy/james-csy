@@ -9,7 +9,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=james-csy&theme=react-dark&hide_border=true&area=true)
 
 ## My Projects
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=james-csy&repo=sanctionlistchecker)](https://github.com/rlin0210/connex)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rlin0210&repo=connex)](https://github.com/rlin0210/connex)
   
 
