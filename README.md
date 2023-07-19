@@ -1,9 +1,8 @@
 # Welcome to my GitHub Repo!
 
 - 👋 Hi, I’m **James Chong**, a Computer Science student at UC Berkeley, California!
-- 👀 I’m interested in building tech within the **social impact space**
+- 👀 I’m interested in building tech within the **social impact, fintech, and insurtech space**
 - 🌱 I’m currently learning **React**, **Python** and **Java**
-- 💞️ I’m looking to collaborate on **social impact focused tech projects**
 - 📫 How to reach me: email me at **jameschong@berkeley.edu** or send me a **DM on Instagram @james.csy**
 
 
