@@ -8,7 +8,8 @@
 
 
 ## My Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=james-csy&repo=sanctionlistchecker)]([https://github.com/rlin0210/connex](https://github.com/james-csy/sanctionlistchecker))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=james-csy&repo=sanctionlistchecker)](https://github.com/james-csy/sanctionlistchecker)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rlin0210&repo=connex)](https://github.com/rlin0210/connex)
   
 
